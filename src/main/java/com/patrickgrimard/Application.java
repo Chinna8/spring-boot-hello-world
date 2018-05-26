@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
-
+// Addeding new changes
 @Configuration
 @ComponentScan
 @EnableAutoConfiguration
